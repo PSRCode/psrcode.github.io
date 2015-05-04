@@ -1,0 +1,13 @@
+<article class="unit-article layout-post">
+    <div class="unit-inner unit-article-inner">
+        <div class="content">
+            <div class="bd">
+                <div class="entry-content">
+					<h1><u>{{ post.title }}</u></h1>
+					<p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>
+                    {{ post.content }}
+                </div><!-- entry-content -->
+            </div><!-- bd -->
+        </div><!-- content -->
+    </div><!-- unit-inner -->
+</article>
