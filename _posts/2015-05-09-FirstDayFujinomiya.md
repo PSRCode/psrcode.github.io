@@ -18,7 +18,7 @@ arrivés à bon port, soit à la Tokiwa Guesthouse.
 
 <img src="https://lh4.googleusercontent.com/-5zKA_MbagSw/VVG-ogChuRI/AAAAAAAADMo/weyvIbT4uw0/w425-h566-no/IMG_5099.JPG" width="50%" alt="tokinawa">
 
-<center>Notre ami Tototro!</center>
+<center>Notre ami Totoro!</center>
 <img src="https://lh4.googleusercontent.com/-2Ud9MgZt9Vk/VU6iyx0tMKI/AAAAAAAAC2w/2ItnaqPKn3s/w755-h566-no/IMG_20150509_163132.jpg" width="50%" alt="totoro">
 
 Le propriétaire, Daisuke, parle un excellent anglais et sa femme, Atsuko,
